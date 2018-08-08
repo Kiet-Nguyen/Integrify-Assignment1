@@ -91,7 +91,7 @@ body {
   justify-content: space-between;
   border-bottom: 1px solid var(--gray);
   margin: 0 auto;
-  padding: 10px;
+  padding: 10px 70px;
 }
 
 .header__nav {
@@ -156,6 +156,10 @@ body {
 
 .about-btn .anchor {
   color: var(--white);
+}
+
+.about-text {
+  hyphens: auto;
 }
 
 /**********************************************
